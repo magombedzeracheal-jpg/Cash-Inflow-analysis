@@ -1,0 +1,5 @@
+{
+  "name": "Copy of IncomeFlow",
+  "description": "An intelligent financial dashboard that uses Gemini AI to parse, categorize, and capture income streams directly from raw bank statement text or CSV data.",
+  "requestFramePermissions": []
+}
